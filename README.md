@@ -39,7 +39,7 @@ BruceBoatner-CommonLisp
 
 * [4. 8 Queens.lisp](https://github.com/brackendev/BruceBoatner-CommonLisp/blob/master/src/4.%208%20Queens.lisp)
 
-###
+### 8 Queens-Object Oriented Approach
 
 <a href="https://www.youtube.com/watch?v=Vr6SvKpYdxs"><img src="http://img.youtube.com/vi/Vr6SvKpYdxs/0.jpg" width="200"></a>
 
