@@ -14,7 +14,7 @@ BruceBoatner-CommonLisp
 
 ***or***
 
-* Use the [GitHub Git client](https://desktop.github.com) and clone this URL:
+* Install the [GitHub Git client](https://desktop.github.com) and clone this URL:
     ```
     https://github.com/brackendev/BruceBoatner-CommonLisp.git
     ```
