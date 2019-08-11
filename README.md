@@ -70,4 +70,5 @@ BruceBoatner-CommonLisp
 * [Bruce Boatner](https://www.youtube.com/channel/UCkXniKqRStBfeE1rd-SM5Kw) [YouTube]
 * [Common Lisp](https://lisp-lang.org)
 * [GNU Emacs](https://www.gnu.org/software/emacs/emacs.html)
+* [Object-Oriented Programming in Common Lisp: A Programmer's Guide to CLOS](https://en.wikipedia.org/wiki/Object-Oriented_Programming_in_Common_Lisp:_A_Programmer%27s_Guide_to_CLOS)
 * [Portacle](https://portacle.github.io)
