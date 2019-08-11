@@ -5,19 +5,13 @@ BruceBoatner-CommonLisp
 
 (Published with permission.)
 
-## Installation
+## Download
 
-* [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and clone this repository. Via a shell, execute:
-    ```bash
-    git clone https://github.com/brackendev/BruceBoatner-CommonLisp.git
-    ```
+* [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) (or the [GitHub Git client](https://desktop.github.com)) and clone this repository: `https://github.com/brackendev/BruceBoatner-CommonLisp.git`
 
 ***or***
 
-* Install the [GitHub Git client](https://desktop.github.com) and clone this URL:
-    ```
-    https://github.com/brackendev/BruceBoatner-CommonLisp.git
-    ```
+* Download the [zip file](https://github.com/brackendev/BruceBoatner-CommonLisp/archive/master.zip).
 
 ## Videos
 
