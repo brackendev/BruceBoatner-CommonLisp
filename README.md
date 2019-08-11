@@ -3,6 +3,8 @@ BruceBoatner-CommonLisp
 
 **Source code for [Bruce Boatner's Common Lisp videos](https://www.youtube.com/channel/UCkXniKqRStBfeE1rd-SM5Kw).**
 
+(Published with permission.)
+
 ## Installation
 
 * [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and clone this repository. Via a shell, execute:
