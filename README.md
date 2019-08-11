@@ -7,11 +7,11 @@ BruceBoatner-CommonLisp
 
 ## Download
 
-* [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) (or the [GitHub Git client](https://desktop.github.com)) and [clone](https://git-scm.com/docs/git-clone) this repository: `https://github.com/brackendev/BruceBoatner-CommonLisp.git`
+* Download the [zip file](https://github.com/brackendev/BruceBoatner-CommonLisp/archive/master.zip).
 
 ***or***
 
-* Download the [zip file](https://github.com/brackendev/BruceBoatner-CommonLisp/archive/master.zip).
+* [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) (or the [GitHub Git client](https://desktop.github.com)) and [clone](https://git-scm.com/docs/git-clone) this repository: `https://github.com/brackendev/BruceBoatner-CommonLisp.git`
 
 ## Videos
 
