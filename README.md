@@ -11,7 +11,7 @@ BruceBoatner-CommonLisp
 
 ***or***
 
-* [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) (or the [GitHub Git client](https://desktop.github.com)) and [clone](https://git-scm.com/docs/git-clone) this repository: `https://github.com/brackendev/BruceBoatner-CommonLisp.git`
+* [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) (or [GitHub Desktop](https://desktop.github.com)) and [clone](https://git-scm.com/docs/git-clone) this repository: `https://github.com/brackendev/BruceBoatner-CommonLisp.git`
 
 ## Videos
 
