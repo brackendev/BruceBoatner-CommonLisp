@@ -59,6 +59,14 @@ BruceBoatner-CommonLisp
 
 [Bruce Boatner](https://www.youtube.com/channel/UCkXniKqRStBfeE1rd-SM5Kw)
 
+## Maintainer
+
+Bracken Spencer
+
+* [GitHub](https://www.github.com/brackendev)
+* [LinkedIn](https://www.linkedin.com/in/brackenspencer/)
+* [Twitter](https://twitter.com/brackendev)
+
 - - -
 
 ## Useful Links
